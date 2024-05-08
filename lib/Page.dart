@@ -78,6 +78,7 @@ class _homeState extends State<home> {
                     trailing: Icon(Icons.arrow_forward_ios,color: Colors.black87,),
                   ),
                 ),
+                Divider(),
                 Padding(
                   padding: const EdgeInsets.all(8.0),
                   child: ListTile(
@@ -97,6 +98,7 @@ class _homeState extends State<home> {
                     trailing: Icon(Icons.arrow_forward_ios,color: Colors.black87,),
                   ),
                 ),
+                Divider(),
                 Padding(
                   padding: const EdgeInsets.all(8.0),
                   child: ListTile(
@@ -204,6 +206,7 @@ class _homeState extends State<home> {
                         trailing: Icon(Icons.arrow_forward_ios,color: Colors.black87,),
                       ),
                     ),
+                    Divider(),
                     Padding(
                       padding: const EdgeInsets.all(8.0),
                       child: ListTile(
